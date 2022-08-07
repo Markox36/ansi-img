@@ -1,0 +1,6 @@
+.whitesource
+.editorconfig
+.eslintrc.json
+tsconfig.json
+node_modules/
+src/
