@@ -44,9 +44,9 @@ yarn add ansi-img
 ```ts
 import { imgFileToAnsi, imgBufferToAnsi } from 'ansi-img';
 
-imgFileToAnsi('./image.jpg').then(console.log); //Logear imagen de un archivo en consola
+imgFileToAnsi('./image.jpg').then(console.log); //Log an image file in terminal
 
-imgBufferToAnsi(buffer).then(console.log); //Logear imagen desde un buffer en consla
+imgBufferToAnsi(buffer).then(console.log); //Log an image from buffer to terminal
 ```
 
 </div>
